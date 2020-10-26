@@ -1,0 +1,9 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\bin\Debug\ModderCalculator.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\bin\Debug\ModderCalculator.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\bin\Debug\ModderCalculator.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.csprojResolveAssemblyReference.cache
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.pdb

@@ -1,0 +1,8 @@
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\bin\Debug\OffsetCalculator.exe.config
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\bin\Debug\OffsetCalculator.exe
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\bin\Debug\OffsetCalculator.pdb
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\ModderCalculator.Form1.resources
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\OffsetCalculator.Properties.Resources.resources
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\OffsetCalculator.csproj.GenerateResource.cache
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\OffsetCalculator.exe
+D:\Users\Gamer\Documents\Visual Studio 2013\Projects\ModderCalculator\ModderCalculator\obj\Debug\OffsetCalculator.pdb
